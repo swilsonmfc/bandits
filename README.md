@@ -1,0 +1,2 @@
+# bandits
+Multi-Arm Bandits
